@@ -3,6 +3,14 @@ This project presents a Sales and Profitability Analysis Dashboard built using P
 
 # Table of Contents
 - [Project Overview](#project-overview)
+- [Tools used](#tools-used)
+- [Data Source](#data-source)
+- [Data Cleaning](#data-cleaning)
+- [EDA](#eda)
+- [Data Analysis](#data-analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+  
 
 ## Project Overview
 <img width="1338" height="755" alt="SALESSS" src="https://github.com/user-attachments/assets/facd50d4-1276-4425-9698-82e40e8e9c81" />
