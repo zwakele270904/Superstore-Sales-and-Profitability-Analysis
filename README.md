@@ -70,5 +70,38 @@ No Discount → Highest Profit (~330K)
 Low Discount → Reduced profit (~100K)
 Medium & High Discounts → NEGATIVE profit (losses)
 
+## Recommendations
+1. Stop High Discounting Strategy
+Medium and High discounts are causing direct losses
+Action:
+- Cap discounts at Low Discount level ONLY
+- Eliminate unprofitable promotions immediately
+- Prioritize Full-Price Sales
+2. No-discount sales generate 3x more profit
+Action:
+- Push value-based marketing instead of discounting
+- Offer bundles instead of price cuts
+3.  Optimize Shipping Strategy
+Standard Class is the most profitable
+Same Day is low return
+Action:
+-  Incentivize Standard Shipping (e.g., free standard delivery)
+- Reduce Same Day promotions
+4.  Focus on High-Performing Regions
+West & East outperform others
+Action:
+ - Increase marketing budget in these regions
+ - Investigate why South is underperforming
+5.  Expand Consumer Segment Strategy
+Largest revenue contributor
+Action:
+- Launch loyalty programs
+- Personalize offers for repeat customers
+
+ ## Final Insight
+- The biggest issue is profit leakage due to discounting — not revenue generation.
+The business is growing in sales, but losing money through poor pricing strategy.
+
+
 
 
