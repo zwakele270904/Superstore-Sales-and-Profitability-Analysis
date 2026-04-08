@@ -47,25 +47,25 @@ RETURN
 DIVIDE(CurrentMonth - PreviousMonth, PreviousMonth, 0)
 ```
 ## Findings
-- Overall Performance
+- Overall Performance :
 Total Revenue: 2.30M
 Total Profit: 286.40K
 Total Quantity Sold: 38K
 Profit Margin: 12.47%
 MoM Growth: 3.79%
-- Trends Over Time
+- Trends Over Time :
 Revenue shows a steady increase from 2015 to 2017
 Indicates business growth but not necessarily profit efficiency
-- Regional Performance
+- Regional Performance :
 West & East regions generate the highest revenue
 South region underperforms in both revenue and profit
--  Customer Segments
+-  Customer Segments :
 Consumer segment dominates (~52.87%)
 Corporate and Home Office contribute less but still significant
- -  Shipping Mode Insights
+ -  Shipping Mode Insights :
 Standard Class generates the highest profit (~160K)
 Same Day delivery contributes the least → high cost, low return
--  Discount Impact (Critical Insight)
+-  Discount Impact (Critical Insight) :
 No Discount → Highest Profit (~330K)
 Low Discount → Reduced profit (~100K)
 Medium & High Discounts → NEGATIVE profit (losses)
