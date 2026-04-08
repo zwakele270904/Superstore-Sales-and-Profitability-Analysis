@@ -14,3 +14,36 @@ The dataset used for this analysis is "Sample-Superstore.csv" as uploaded in the
 - Checked for null values and duplicates
 Standardized categorical variables (Region, Segment, Shipping Mode)
 Ensured correct data types (dates, numeric values)
+
+## EDA
+Distribution of Revenue, Profit, and Quantity
+Trend analysis across years (2014–2017)
+Comparison across:
+Regions
+Customer Segments
+Shipping Modes
+Discount levels
+
+## Data Aalysis
+```DAX
+Total Revenue
+Total Revenue = SUM(Sales[Sales])
+ Total Profit
+Total Profit = SUM(Sales[Profit])
+ Total Quantity
+Total Quantity = SUM(Sales[Quantity])
+ Profit Margin (%)
+Profit Margin = 
+DIVIDE([Total Profit], [Total Revenue], 0)
+ Month-over-Month Growth (MoM %)
+MoM Growth = 
+VAR CurrentMonth = [Total Revenue]
+VAR PreviousMonth = 
+    CALCULATE(
+        [Total Revenue],
+        DATEADD(Sales[Order Date], -1, MONTH)
+    )
+RETURN 
+DIVIDE(CurrentMonth - PreviousMonth, PreviousMonth, 0)
+``
+
