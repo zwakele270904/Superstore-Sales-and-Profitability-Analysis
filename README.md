@@ -6,3 +6,11 @@ This project presents a Sales and Profitability Analysis Dashboard built using P
 - DAX (Data Analysis Expressions) – Calculated measures and KPIs
 - Excel / CSV Dataset – Data source
 - Data Modeling – Relationships and transformations
+
+## Data Source
+The dataset used for this analysis is "Sample-Superstore.csv" as uploaded in these project files
+
+## Data Cleaning
+- Checked for null values and duplicates
+Standardized categorical variables (Region, Segment, Shipping Mode)
+Ensured correct data types (dates, numeric values)
