@@ -1,6 +1,9 @@
 # Superstore-Sales-and-Profitability-Analysis
 This project presents a Sales and Profitability Analysis Dashboard built using Power BI to uncover key business insights across revenue, profit, customer segments, regions, and discount strategies.The goal is to analyze performance trends and identify actionable strategies to improve profitability and operational efficiency.
 
+# Table of Contents
+- [Project Overview](#project-overview)
+
 ## Project Overview
 <img width="1338" height="755" alt="SALESSS" src="https://github.com/user-attachments/assets/facd50d4-1276-4425-9698-82e40e8e9c81" />
 
@@ -27,7 +30,7 @@ Customer Segments
 Shipping Modes
 Discount levels
 
-## Data Aalysis
+## Data Analysis
 ```DAX
 Total Revenue
 Total Revenue = SUM(Sales[Sales])
