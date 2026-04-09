@@ -30,13 +30,15 @@ Standardized categorical variables (Region, Segment, Shipping Mode)
 Ensured correct data types (dates, numeric values)
 
 ## EDA
-Distribution of Revenue, Profit, and Quantity
-Trend analysis across years (2014–2017)
-Comparison across:
+- Grouped discounts into low , medium and high 
+- Distribution of Revenue, Profit, and Quantity
+- Trend analysis across years (2014–2017)
+- Comparison across:
 Regions
 Customer Segments
 Shipping Modes
 Discount levels
+
 
 ## Data Analysis
 ```DAX
